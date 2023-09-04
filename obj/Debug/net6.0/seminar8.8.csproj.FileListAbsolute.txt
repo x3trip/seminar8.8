@@ -1,0 +1,15 @@
+C:\Users\Костик\Desktop\C#\seminar8.8\bin\Debug\net6.0\seminar8.8.exe
+C:\Users\Костик\Desktop\C#\seminar8.8\bin\Debug\net6.0\seminar8.8.deps.json
+C:\Users\Костик\Desktop\C#\seminar8.8\bin\Debug\net6.0\seminar8.8.runtimeconfig.json
+C:\Users\Костик\Desktop\C#\seminar8.8\bin\Debug\net6.0\seminar8.8.dll
+C:\Users\Костик\Desktop\C#\seminar8.8\bin\Debug\net6.0\seminar8.8.pdb
+C:\Users\Костик\Desktop\C#\seminar8.8\obj\Debug\net6.0\seminar8.8.csproj.AssemblyReference.cache
+C:\Users\Костик\Desktop\C#\seminar8.8\obj\Debug\net6.0\seminar8.8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Костик\Desktop\C#\seminar8.8\obj\Debug\net6.0\seminar8.8.AssemblyInfoInputs.cache
+C:\Users\Костик\Desktop\C#\seminar8.8\obj\Debug\net6.0\seminar8.8.AssemblyInfo.cs
+C:\Users\Костик\Desktop\C#\seminar8.8\obj\Debug\net6.0\seminar8.8.csproj.CoreCompileInputs.cache
+C:\Users\Костик\Desktop\C#\seminar8.8\obj\Debug\net6.0\seminar8.8.dll
+C:\Users\Костик\Desktop\C#\seminar8.8\obj\Debug\net6.0\refint\seminar8.8.dll
+C:\Users\Костик\Desktop\C#\seminar8.8\obj\Debug\net6.0\seminar8.8.pdb
+C:\Users\Костик\Desktop\C#\seminar8.8\obj\Debug\net6.0\seminar8.8.genruntimeconfig.cache
+C:\Users\Костик\Desktop\C#\seminar8.8\obj\Debug\net6.0\ref\seminar8.8.dll
